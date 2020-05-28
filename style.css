@@ -1,0 +1,29 @@
+body {
+    background: black;
+}
+
+.clock {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    letter-spacing: 6px;
+    border: solid 15px grey;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+#day {
+    font-size: 2.5em;
+}
+
+#monat {
+    font-size: 2.5em;
+}
+
+.month {
+    margin-right: 90px;
+}
