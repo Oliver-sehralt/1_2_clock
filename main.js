@@ -31,3 +31,11 @@ var monate = [
     var e = new Date();
 
     document.getElementById("day").innerHTML = wocheTag[d.getDay()];
+
+    document.getElementById("stunde").innerHTML = 10;
+
+    document.getElementById("minuten").innerHTML = 55;
+
+    document.getElementById("sekunden").innerHTML = 30;
+
+    document.getElementById("periode").innerHTML = "AM";

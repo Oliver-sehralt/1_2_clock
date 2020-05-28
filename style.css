@@ -27,3 +27,35 @@ body {
 .month {
     margin-right: 90px;
 }
+
+#stunde {
+    font-size: 2.5em;
+}
+
+.hours {
+    margin-right: 90px;
+}
+
+#minuten {
+    font-size: 2.5em;
+}
+
+.minutes {
+    margin-right: 90px;
+}
+
+#sekunden {
+    font-size: 2.5em;
+}
+
+.seconds {
+    margin-right: 90px;
+}
+
+#periode {
+    font-size: 2.5em;
+}
+
+.period {
+    margin-right: 2.5em;
+}
